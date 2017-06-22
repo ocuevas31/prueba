@@ -8,3 +8,7 @@ subiendo la rama con:
 git add *.*
 git commit -m "TEXTO..."
 git push origin nuevaRama
+
+Desde eclipse mas facil.
+
+TEam->Commit and Push
